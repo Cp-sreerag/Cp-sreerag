@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cp-sreerag
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data science, Data analytics,AI , statistics and Mathematics
 - 🌱 I’m currently learning Data science and AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sreeragcp007@gmail.com or +91-6282603943
 
 <!---
